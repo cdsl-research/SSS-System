@@ -21,35 +21,43 @@
 # 実行結果
 ## クライアント
 BMP-280の場合
+
 ![image](https://github.com/user-attachments/assets/1ccb3f75-9da3-4903-8a86-f95907beb7ea)
 
 
 BME-280の場合
+
 ![image](https://github.com/user-attachments/assets/b0dc871a-60ad-48a1-93bd-35fcfff19cfe)
 
 
 ADT-7410の場合
+
 ![image](https://github.com/user-attachments/assets/9be709bc-962d-4f46-afbc-6f8c554148bd)
 
 
 S-5851Aの場合
+
 ![image](https://github.com/user-attachments/assets/962e9bd4-014c-4cf9-b924-95720d6b9ff3)
 
 
 
 ## サーバー
 BMP-280の場合
+
 ![image](https://github.com/user-attachments/assets/cec7a3ef-1c45-41b8-9cbd-4dfdad0861f0)
 
 
 BME-280の場合
+
 ![image](https://github.com/user-attachments/assets/1850103b-bf48-4769-a591-8f393e2508ff)
 
 
 ADT-7410の場合
+
 ![image](https://github.com/user-attachments/assets/1bd0e778-4868-4139-8d94-abaec72c4923)
 
 
 S-5851Aの場合
+
 ![image](https://github.com/user-attachments/assets/b5c57549-de72-4c87-bf48-2e1657a994f1)
 
